@@ -1,3 +1,14 @@
+> [!NOTE]
+> **moarchy-keep has moved to [SimonSchubert/moarchy-apps](https://github.com/SimonSchubert/moarchy-apps).**
+>
+> It lives at [`apps/keep`](https://github.com/SimonSchubert/moarchy-apps/tree/main/apps/keep)
+> there, alongside the other apps for a Linux phone, with its history intact.
+> Releases from 0.1.1 on are tagged `keep-v*` in that repository, and the AUR
+> package `moarchy-keep` points at them.
+>
+> This repository is archived. Its v0.1.0 and v0.1.1 release assets stay where
+> they are, so nothing that already links to them breaks.
+
 # moarchy-keep
 
 Notes and checklists for a Linux phone, in the shape of Google Keep: a two
